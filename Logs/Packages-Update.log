@@ -1,0 +1,19 @@
+
+=== Wed Jan 23 20:15:56 2019
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were updated:
+  com.unity.analytics from version 3.0.9 to 3.2.2
+
+=== Wed Jan 30 18:48:31 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.timeline@0.0.0-builtin
+The following packages were updated:
+  com.unity.collab-proxy from version 1.2.9 to 1.2.15
+  com.unity.package-manager-ui from version 2.1.0-preview.1 to 0.0.0-builtin
